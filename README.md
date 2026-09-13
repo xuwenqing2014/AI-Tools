@@ -2,7 +2,7 @@
 
 A curated collection of useful AI tools and resources.
 
-This repository is mirrored on [GitHub](https://github.com/xuwenqing2014/AI-Tools) and [Codeberg](https://codeberg.org/mintnow/AI-Tools).
+This repository is mirrored on [GitHub](https://github.com/xuwenqing2014/AI-Tools), [Codeberg](https://codeberg.org/mintnow/AI-Tools), and [Hugging Face](https://huggingface.co/mintnow/AI-Tools).
 
 ## Links
 
